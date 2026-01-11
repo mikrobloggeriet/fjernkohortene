@@ -1,4 +1,4 @@
-# Fjerkohortene
+# Fjernkohortene
 
 Publisér til Mikrobloggeriet, men fokuser på skrivingen.
 
