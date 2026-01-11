@@ -1,0 +1,7 @@
+{:cohorts
+ [{:cohort/id :cohort/enklere
+   :cohort/root "enklere"
+   :cohort/slug "enklere"
+   :cohort/type :cohort.type/markdown
+   :cohort/name "ENKLERE"
+   :cohort/description "Kan enklere være bedre?"}]}
