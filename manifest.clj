@@ -1,6 +1,5 @@
 (ns manifest
   (:require [babashka.fs :as fs]
-            ;; [babashka.http-client :as http-client] ; will need to POST manifest to Mikrobloggeriet (later)
             [babashka.process :as p]
             [clojure.string :as str]))
 
@@ -30,11 +29,16 @@
            :docs docs
            :rev rev)))
 
-(comment
-  (def rev (rev-parse "." "HEAD"))
-  (github-raw-href rev "enklere/enklere-1/index.md")
-  (create-manifest)
+(defn prepare-request [the-manifest]
+  {:method :post
+   :uri "https://mikrobloggeriet.no/fjernkohortene"
+   :body (pr-str the-manifest)})
 
-  (require 'clojure.repl.deps)
-  (clojure.repl.deps/sync-deps)
+(comment
+  (require '[babashka.http-client :as http-client])
+  (def manifest (create-manifest))
+  (-> manifest
+      prepare-request
+      http-client/request)
+
   )
