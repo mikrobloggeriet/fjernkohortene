@@ -1,11 +1,12 @@
-<!-- Hva gjør du akkurat nå? -->
+# Progressjon når man stagnerer
+## Hva gjør du akkurat nå?
 Sitter her og blir småkjeftet på av Teodor. Han sier at det ikke er meningen å være slem eller frekk, men at han ønsker å være tydelig når vi jobber. Det forstår jeg, og jeg tar meg ikke nær av det. Men.... jeg kjenner jo litt på usikkerhet og at jeg kanskje går litt mer og mer forsiktig frem, bare for å ikke oppleve den "kjeftene" Teodor flere ganger. Det er noe i meg som også søker etter den glade Teodor. En som gir meg komplementer når jeg gjør noe riktig. Da må jeg tenke litt harderer på det jeg gjør for å mer sannsynlig gjøre noe riktig. Nesten litt som en hund som så inderlig vil få premien sin i form av en leke eller en godbit. Jeg tror ikke Teodor har godbiter i lomma, men det gir meg kanskje litt slack for å gå en ny runde på kjøkkenet for å hente meg et nytt glass vin. 
 
-<!-- Finner du kvalitet i det? -->
+## Finner du kvalitet i det?
 Masse kvalitet i dette! Jeg liker egentlig en kjeftende Teodor. Jeg lærer av det. Litt som når jeg spilte basketball som ungdom. Jeg spilte alltid med folk som var eldre og flinkere enn meg. Det ga meg masse læring og en sylbratt læringskurve. Alltid noe å jobbe mot og strekke seg etter. Jeg skal jo ikke bli like god som Teodor i kodeskriving, men når jeg ikke alltid møter den kjeftende Teodor, så har jeg jo ingenting å strekke meg etter for å få godbiten min; vinglasset mitt. 
 
-<!-- Hvorfor / hvorfor ikke? -->
+## Hvorfor / hvorfor ikke?
 Jeg vil jo bli flinkere på kode. Jeg vil jo lære. Og Teodor er jo en å lære av. For han er skikkelig flink i det han gjør. Men usikkerheten min ved kjeftingen er jo der. Og den er også forsterket av at jeg ikke skriver kode hver dag; som Teodor gjør. Litt som når jeg kjøpte meg Skate 3 på PS4; sykt kult spill, jeg ville bli god i det. Men siden jeg kun spillte én gang hver tredje måned, så kom jeg meg aldri forbi kunsten å kunne klare en kickflip. Men hallo; det er jo et bevis på stagnering i læring om man ikke trener. Og det er jo det jeg kanskje opplever med det å nå lære meg kode. Stagnering, usikkerhet. MEN! Den kjeftende Teodor er den jeg trenger for å bli skjerpet de få gangene jeg har muligheten til å lære kode. Det er kanskje den kjeftende Teodor som dytter meg bort fra veggen jeg nå stagnerer mot, og viser meg veien til neste vegg å stagnere mot. Det er fortsatt stagnering, for jeg kommer til å være like usikker neste gang jeg skal prøve å skrive kode. Men da stagnerer jeg i allefall i en vegg som er litt lengere fremme enn forrige gang. Takket være den kjeftende Teodor. 
 
-<!-- Call to action—hva ønsker du kommentarer på fra de som leser? -->
+## Call to action—hva ønsker du kommentarer på fra de som leser?
 Hvordan skal man stagnere produktivt og med prograssjon? Skal alle ha en kjeftende Teodor ved seg? Kan man kjefte på seg selv? Eller er det andre måter å strebe etter godbiten sin når man prøver å bli flinkere til noe?
