@@ -1,6 +1,7 @@
 # Misforstått minimalisme
 
-De siste årene har jeg blitt mer vâr på at jeg ønsker færre fokuserte greier, heller enn å være overalt og gjøre altmulig hele tiden.
+De siste årene har jeg blitt mer vâr på at jeg ønsker færre, men fokuserte jern i ilden.
+Ikke være være overalt og gjøre altmulig hele tiden.
 Det kan banalt løses ved frakobling.
 Si opp forpliktelser, flytt til skogen.
 
@@ -39,6 +40,6 @@ Hans egne ord er nydelige:
 Så Julian gir oss løsningen.
 Minimalisme handler ikke om å bare fjerne alt mulig.
 Vi må fjerne de riktige tingene.
-Og vi må for Guds skyld ikke fjerne de tingene som slår gnister av glede.
+De jernene du har i ilden som slår gnister av glede fortjener å få bli.
 
 Teodor
