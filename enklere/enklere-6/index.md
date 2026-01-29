@@ -41,3 +41,7 @@ Krigsprofitør på 60-tallet eller [oppmerksomhetstyveri-profitør](/enklere/enk
 Jeg har fått sansen for å høre på Dylan, sakte.
 Det roer ned maset.
 Det gjør opplevelsen litt enklere.
+
+(Les gjerne også [LUKE-2 - Headache] av Julian, om opplevelsen av AI-generert musikk).
+
+[LUKE-2 - Headache]: /luke/luke-2/
