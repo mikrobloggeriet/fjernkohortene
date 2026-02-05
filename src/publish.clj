@@ -18,15 +18,16 @@
    :uri (str *mikrobloggeriet-root* "/fjernkohortene/docs")
    :body (pr-str {:docs (mapcat load-cohort-docs cohorts)})})
 
-(comment
+(defn load-mikrobloggeriet-edn []
+  (read-string (slurp "mikrobloggeriet.edn")))
 
-  (def mikrobloggeriet-edn (read-string (slurp "mikrobloggeriet.edn")))
+(comment
 
   ;; POST https://mikrobloggeriet.no/fjernkohortene/docs
   (binding [*mikrobloggeriet-root* "http://localhost:7777"]
-    (http-client/request (mikrobloggeriet-edn->request mikrobloggeriet-edn)))
+    (http-client/request (mikrobloggeriet-edn->request (load-mikrobloggeriet-edn))))
 
   ;; POST http://localhost:7777/fjernkohortene/docs
-  (http-client/request (mikrobloggeriet-edn->request mikrobloggeriet-edn))
+  (http-client/request (mikrobloggeriet-edn->request (load-mikrobloggeriet-edn)))
 
   )
