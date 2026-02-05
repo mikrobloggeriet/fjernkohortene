@@ -13,20 +13,20 @@
                  {:doc/slug (fs/file-name doc-dir)})))
        (sort-by :doc/slug)))
 
-(defn manifest->request [{:as manifest :keys [cohorts]}]
+(defn mikrobloggeriet-edn->request [{:keys [cohorts]}]
   {:method :post
    :uri (str *mikrobloggeriet-root* "/fjernkohortene/docs")
    :body (pr-str {:docs (mapcat load-cohort-docs cohorts)})})
 
 (comment
 
-  (def manifest (read-string (slurp "mikrobloggeriet.edn")))
+  (def mikrobloggeriet-edn (read-string (slurp "mikrobloggeriet.edn")))
 
   ;; POST https://mikrobloggeriet.no/fjernkohortene/docs
   (binding [*mikrobloggeriet-root* "http://localhost:7777"]
-    (http-client/request (manifest->request manifest)))
+    (http-client/request (mikrobloggeriet-edn->request mikrobloggeriet-edn)))
 
   ;; POST http://localhost:7777/fjernkohortene/docs
-  (http-client/request (manifest->request manifest))
+  (http-client/request (mikrobloggeriet-edn->request mikrobloggeriet-edn))
 
   )
