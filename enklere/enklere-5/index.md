@@ -16,7 +16,7 @@ Kilder som fremmer personlighet, ikke vasker den vekk og immiterer den på et uh
 Du tar dette valget hver dag.
 Du designer din oppmerksomhet.
 Du gjør det allerede.
-Du kan gjøre det /mer/.
+Du kan gjøre det _mer_.
 
 Si nei til å få oppmerksomheten din stjålet fra deg.
 Si nei når folk pumper mas og støy inn i synsfeltet ditt.
@@ -28,7 +28,7 @@ Fra noen du bryr deg om?
 Fra noen som bryr seg om deg?
 Fra noen du respekterer?
 
-Kildekrititt het det da min norsklærer Liv snakket om fallgruvene med Wikipedia i åttende klasse.
+Kildekritikk het det da min norsklærer Liv snakket om fallgruvene med Wikipedia i åttende klasse.
 "Ikke kopier fra Wikipedia".
 Da synes jeg det var teit, og kopierte fra et annet sted i stedet.
 Så skrev jeg om setningene til mitt språk, og signerte på det.
@@ -46,7 +46,7 @@ Dytt det rundt, se hva det er.
 Ikke ta det så seriøst.
 Plutselig sitter du og ler av dine egne budskap.
 Din ignoranse, ditt ego, dine særegenheter.
-Ved å ikke knytte deg så helvetes fast i det du lager, kan du lage /mer/, se hva du har laget med klarere øyne, og lage det /bedre/.
+Ved å ikke knytte deg så helvetes fast i det du lager, kan du lage _mer_, se hva du har laget med klarere øyne, og lage det _bedre_.
 Men dit kommer du ikke med stjålen oppmerksomhet.
 Med oppmersomheten din stjålet fra deg, havner du et sted du aldri ville være, uten din egen stemme.
 Stemmen din prøvde å si ifra, men den kom ikke gjennom.
