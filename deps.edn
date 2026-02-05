@@ -1,4 +1,5 @@
 {:paths ["."]
  :deps {babashka/fs {:mvn/version "0.5.30"}
         babashka/process {:mvn/version "0.6.25"}
+        io.github.tonsky/clojure-plus {:mvn/version "1.7.2"}
         org.babashka/http-client {:mvn/version "0.4.23"}}}
