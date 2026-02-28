@@ -1,1 +1,3 @@
-{:deps {io.github.mikrobloggeriet/fjernkohortene {:local/root "."}}}
+{:deps {io.github.mikrobloggeriet/fjernkohortene {:local/root "."}}
+ :tasks
+ {create-enklere (shell "./mblog.sh create enklere")}}
