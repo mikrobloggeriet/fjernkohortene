@@ -21,13 +21,20 @@
 (defn load-mikrobloggeriet-edn []
   (read-string (slurp "mikrobloggeriet.edn")))
 
+(defn publish []
+  (http-client/request (mikrobloggeriet-edn->request (load-mikrobloggeriet-edn))))
+
+(defn ^:export main []
+  (binding [*print-namespace-maps* false]
+    (prn (publish))))
+
 (comment
 
   ;; POST https://mikrobloggeriet.no/fjernkohortene/docs
   (binding [*mikrobloggeriet-root* "http://localhost:7777"]
-    (http-client/request (mikrobloggeriet-edn->request (load-mikrobloggeriet-edn))))
+    (publish))
 
   ;; POST http://localhost:7777/fjernkohortene/docs
-  (http-client/request (mikrobloggeriet-edn->request (load-mikrobloggeriet-edn)))
+  (publish)
 
   )

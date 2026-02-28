@@ -1,3 +1,4 @@
 {:deps {io.github.mikrobloggeriet/fjernkohortene {:local/root "."}}
  :tasks
- {create-enklere (shell "./mblog.sh create enklere")}}
+ {create-enklere (shell "./mblog.sh create enklere")
+  publish ((requiring-resolve 'publish/main))}}
