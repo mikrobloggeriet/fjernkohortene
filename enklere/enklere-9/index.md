@@ -1,4 +1,4 @@
-# Beslutningsbyrde per handlingsrom
+# Handlingsrom per beslutningsbyrde
 
 Opsjoner *er* verdifulle. Vi bør betale litt for å kunne velge å gjøre noe i
 framtiden.
