@@ -39,6 +39,13 @@ Uenig?
 
 Jeg vil høre designperspektivet, produktperspektivet, kodeperspektivet og kunstperspektivet.
 
+La oss diskutere!
+
+Svar gjerne med innlegg i ENKLERE.
+Publiseringsprossessen er beskrevet i README her: https://github.com/mikrobloggeriet/fjernkohortene
+Hvis du ikke er Git-kyndig, skriv en tekst og send den til meg.
+Fortrinnsvis Markdown, men jeg kan konvertere fra andre formater for deg hvis du ikke kan Markdown.
+
 Teodor
 
 [Jeg gjentar, begrens uferdig arbeid!]: /doc/leik-7
